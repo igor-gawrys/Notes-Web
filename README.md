@@ -1,6 +1,6 @@
-# notes_frontend
+# Notes Web
 
-> Notes frontend
+> Web to API notes APP 
 
 ## Build Setup
 
